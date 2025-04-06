@@ -1,5 +1,4 @@
 # matrix-chain-visualizer
-# Matrix Chain Visualizer
 
 This is a fullstack web application that solves and visualizes the Matrix Chain Multiplication problem. The backend is built with Node.js and Express, while the frontend is implemented using HTML, CSS, JavaScript, and SVG for tree visualization.
 
@@ -13,7 +12,7 @@ This project:
 - Visualizes the multiplication order as a binary tree
 
 
-## How to Run
+# How to Run
 
 ### Backend
 
@@ -58,13 +57,13 @@ Output:
 
 A tree is rendered showing the optimal order visually using SVG.
 
-## Technologies Used
+# Technologies Used
 
 - Node.js
 - Express
 - HTML, CSS, JavaScript
 - SVG for visualization
 
-## License
+# License
 
 This project is licensed under the MIT License.
